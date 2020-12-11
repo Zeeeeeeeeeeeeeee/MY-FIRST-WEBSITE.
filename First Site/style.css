@@ -1,0 +1,17 @@
+
+body
+{ font-family:cursive; font-size: 20ss;
+  background-color: rgb(215, 199, 221);
+  border-style:dashed;border-color:purple;
+  border-width: 5%; 
+}
+
+table,th,td{
+        border: 1px solid black}
+        
+h3{
+  font-family:cursive; font: size 50;
+}
+button
+{background-color: rgb(244, 246, 247); width:25%; height:6%; font-size:15; font-family:cursive; font-color: purple
+}
